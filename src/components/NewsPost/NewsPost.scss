@@ -1,0 +1,11 @@
+.newsPost {
+  max-width: 900px;
+
+  &__title {
+    margin: 0 0 28px;
+  }
+
+  &__content {
+    margin: 24px 0;
+  }
+}

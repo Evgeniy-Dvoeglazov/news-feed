@@ -1,0 +1,16 @@
+.newsFeed {
+  &__skeleton {
+    max-width: 900px;
+    margin: auto;
+  }
+
+  &__error {
+    text-align: center;
+    margin-top: 32px;
+  }
+
+  &__content {
+    height: calc(100vh - 60px - 60px);
+    overflow: auto;
+  }
+}

@@ -1,0 +1,31 @@
+$bg-color: #08240a;
+$height: 60px;
+$text-color: #fff;
+
+.app {
+  &__layout {
+    min-height: 100vh;
+  }
+
+  &__header {
+    display: flex;
+    height: $height;
+    align-items: center;
+    color: $text-color;
+    background: $bg-color;
+  }
+
+  &__title {
+    margin: 0;
+  }
+
+  &__footer {
+    height: $height;
+    display: flex;
+    background: $bg-color;
+    color: $text-color;
+    align-items: center;
+    justify-content: center;
+    justify-content: center;
+  }
+}
