@@ -5,3 +5,5 @@
 - `dev`/`start` - start dev server and open browser
 - `build` - build for production
 - `preview` - locally preview production build
+
+[Ссылка на опубликованный проект](https://news-feed-evgeniydvoeglazovs-projects.vercel.app/)
